@@ -1,1 +1,50 @@
+<section class="categoria">
+    <h2>Filmes de Terror</h2>
+    <div class="filmes">
+        <!-- Invocação do Mal -->
+        <div class="filme">
+            <a href="https://www.youtube.com/watch?v=5qWzOxXy7TQ">
+                <img src="https://img.youtube.com/vi/5qWzOxXy7TQ/maxresdefault.jpg" alt="Trailer Invocação do Mal" />
+                <h3>Invocação do Mal</h3>
+                <p>O filme de terror que vai te prender do início ao fim.</p>
+            </a>
+        </div>
+
+        <!-- Todo Mundo em Pânico -->
+        <div class="filme">
+            <a href="https://www.youtube.com/watch?v=sbG87sfNi_w">
+                <img src="https://img.youtube.com/vi/sbG87sfNi_w/maxresdefault.jpg" alt="Trailer Todo Mundo em Pânico" />
+                <h3>Todo Mundo em Pânico</h3>
+                <p>A paródia do terror mais engraçada.</p>
+            </a>
+        </div>
+
+        <!-- O Exorcista -->
+        <div class="filme">
+            <a href="https://www.youtube.com/watch?v=5GM9lL96Xzo">
+                <img src="https://img.youtube.com/vi/5GM9lL96Xzo/maxresdefault.jpg" alt="Trailer O Exorcista" />
+                <h3>O Exorcista</h3>
+                <p>Um clássico do terror psicológico.</p>
+            </a>
+        </div>
+
+        <!-- Atividade Paranormal -->
+        <div class="filme">
+            <a href="https://www.youtube.com/watch?v=F_UjR_GaFvI">
+                <img src="https://img.youtube.com/vi/F_UjR_GaFvI/maxresdefault.jpg" alt="Trailer Atividade Paranormal" />
+                <h3>Atividade Paranormal</h3>
+                <p>A tensão crescente em cada cena.</p>
+            </a>
+        </div>
+
+        <!-- A Freira -->
+        <div class="filme">
+            <a href="https://www.youtube.com/watch?v=6QQ2yXbVr5I">
+                <img src="https://img.youtube.com/vi/6QQ2yXbVr5I/maxresdefault.jpg" alt="Trailer A Freira" />
+                <h3>A Freira</h3>
+                <p>Uma história sombria com um terror psicológico arrepiante.</p>
+            </a>
+        </div>
+    </div>
+</section>
 
